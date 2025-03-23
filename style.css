@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Gill Sans", sans-serif;
+}
+
+.myclass {
+    width: 80vw;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: blue;
+    font-size: 48px;
+    background-color: #cfc;
+    border-radius: 20px;
+}
+
+.biginput {
+    font-size: 24px;
+    font-family: "Gill Sans", sans-serif;
+    line-height: 1.5;    
+}
