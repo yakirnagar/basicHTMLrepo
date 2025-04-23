@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: blue;
+    color: red;
     font-size: 48px;
     background-color: #cfc;
     border-radius: 20px;
@@ -21,5 +21,6 @@ body {
 .biginput {
     font-size: 24px;
     font-family: "Gill Sans", sans-serif;
-    line-height: 1.5;    
+    line-height: 1.5;
+    margin-top: 3px;
 }
